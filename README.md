@@ -1,4 +1,4 @@
-根据您的要求，我为GFPortal项目创建了一个专属的Markdown内容。这个内容突出了项目的主要特点，并融入了Sonic Labs的技术优势。以下是GFPortal项目的Markdown描述：
+
 
 ### GFPortal: Web3 GameFi Gateway on Sonic Chain
 
