@@ -1,24 +1,48 @@
-### CryptoWiFi Connect BUIDL (Optimized for EMC Chain)
+根据您的要求，我为GFPortal项目创建了一个专属的Markdown内容。这个内容突出了项目的主要特点，并融入了Sonic Labs的技术优势。以下是GFPortal项目的Markdown描述：
 
-**CryptoWiFi Connect** is a decentralized Wi-Fi access solution that allows users in underdeveloped regions to pay for internet services using the **EMC token** on the EMC Chain, a high-performance Layer 1 blockchain. The project builds on the robust infrastructure of **ApFree WiFiDog**, offering a secure, scalable, and seamless payment gateway for Wi-Fi services.
+### GFPortal: Web3 GameFi Gateway on Sonic Chain
+
+**GFPortal** (GameFi Portal) is an innovative Web3 platform that combines high-speed WiFi access, cryptocurrency payments, and a comprehensive GameFi ecosystem. Built on the Sonic Chain, GFPortal leverages Sonic Labs' advanced technology to provide users with a seamless internet experience while serving as a gateway to the exciting world of blockchain gaming.
 
 #### Key Features:
-- **Powered by EMC Chain**: The payment system leverages the **EMC Chain**, a Layer 1 blockchain with high throughput, low latency, and strong security. EMC tokens are used for transactions, taking advantage of EMC's **200 TPS** capacity and **2-second block time** for fast and efficient payments.
-- **Seamless Crypto Payments**: Users pay for Wi-Fi access using EMC tokens, providing an easy and secure way to access high-speed internet without needing traditional banking systems.
-- **ApFree WiFiDog Integration**: This solution incorporates **ApFree WiFiDog**'s captive portal for authenticating users, managing high traffic, and supporting both HTTP and HTTPS protocols. It also offers features such as MAC-based authentication and IP whitelisting for enhanced access control.
-- **Proof of Stake (PoS) Security**: Built on the EMC Chain’s **PoS consensus mechanism**, the project benefits from high security, including **DDoS attack protection** and **double-spending prevention**, ensuring a stable and trustworthy network for financial transactions.
-- **Scalability**: EMC Chain's **sharding technology** and **Layer 2 solutions** provide scalability, enabling the platform to accommodate growing user demand while keeping transaction fees low.
+
+- **Powered by Sonic Chain**: The platform utilizes Sonic Chain's high-performance infrastructure, benefiting from its **10,000+ TPS** capacity and **near-second finality** for ultra-fast transactions and game interactions.
+
+- **Seamless Crypto Payments**: Users can pay for WiFi access and in-game purchases using S tokens and other supported cryptocurrencies, providing a frictionless experience without traditional banking systems.
+
+- **Integrated GameFi Ecosystem**: GFPortal serves as a central hub for various blockchain games, offering users easy access to a wide range of GameFi projects directly from the WiFi login interface.
+
+- **Sonic Gems Rewards**: Users earn Sonic Gems for various activities on the platform, including WiFi usage and game participation, which can be used for future S token airdrops.
+
+- **Developer-Friendly Environment**: Leveraging Sonic's Fee Monetization (FeeM) program, game developers can earn up to 90% of the fees their games generate, fostering a vibrant and innovative GameFi ecosystem.
 
 #### How It Works:
-1. **User Connection**: When users attempt to access the Wi-Fi network, they are directed to the captive portal managed by ApFree WiFiDog.
-2. **EMC Token Payment**: Users connect their wallets and pay for the internet service using EMC tokens on the EMC Chain. With **2-second block times**, transactions are confirmed rapidly.
-3. **Authentication and Access**: Once payment is verified, the user is authenticated via the ApFree WiFiDog platform and granted access to the Wi-Fi network.
-4. **High Performance and Low Cost**: EMC Chain’s efficient transaction processing ensures that users experience fast payments and low transaction fees, making the platform ideal for regions where cost is a major barrier.
+
+1. **WiFi Connection**: Users connect to the GFPortal WiFi network and are directed to the platform's login page.
+
+2. **Crypto Payment**: Users pay for internet access using S tokens or other supported cryptocurrencies. Thanks to Sonic's near-second finality, transactions are confirmed almost instantly.
+
+3. **GameFi Portal Access**: Upon successful payment, users gain access to the internet and are presented with the GFPortal interface, showcasing various GameFi projects and opportunities.
+
+4. **Seamless Gaming Experience**: Users can dive into their favorite blockchain games directly from the portal, with all transactions and in-game actions benefiting from Sonic Chain's high performance.
 
 #### Performance and Security:
-- **High TPS**: EMC Chain supports up to **200 transactions per second**, ensuring that multiple users can pay for Wi-Fi access simultaneously without delay.
-- **Strong Security**: The network benefits from advanced security features, including **DDOS protection** and **PoS-based double-spending prevention**, making it a safe environment for both users and network operators.
+
+- **High Throughput**: Sonic Chain's capability to handle over 10,000 transactions per second ensures smooth gameplay and rapid in-game transactions for multiple users simultaneously.
+
+- **Enhanced Security**: The platform benefits from Sonic Chain's robust security features, including its advanced consensus mechanism and the option to use Sonic Safe multi-signature wallets for enhanced fund protection.
+
+- **Cross-Chain Compatibility**: Integration with Sonic Gateway allows for seamless asset transfer between Sonic Chain and Ethereum, expanding the range of supported games and assets.
 
 #### Impact:
-**CryptoWiFi Connect** addresses the issue of limited internet access in underdeveloped regions by providing a blockchain-based solution for secure and affordable Wi-Fi access. By building on the high-performance capabilities of EMC Chain and the reliable infrastructure of ApFree WiFiDog, this project creates a scalable, secure, and efficient platform to empower communities through internet connectivity.
 
+GFPortal addresses the growing demand for accessible and engaging blockchain gaming experiences. By combining WiFi access with a GameFi hub, the platform creates a unique entry point for both crypto enthusiasts and traditional gamers into the Web3 ecosystem. Built on Sonic Chain's cutting-edge technology, GFPortal offers a high-performance, secure, and user-friendly environment that has the potential to accelerate the adoption of blockchain gaming worldwide.
+
+#### Future Developments:
+
+- **Mobile App**: Development of iOS and Android applications for on-the-go access to the GFPortal ecosystem.
+- **Expanded Game Offerings**: Continuous onboarding of new and innovative GameFi projects to provide users with a diverse gaming experience.
+- **Enhanced Rewards System**: Implementation of a tiered rewards program to incentivize long-term user engagement and loyalty.
+- **Community Governance**: Introduction of a DAO structure to allow users and developers to participate in key platform decisions.
+
+GFPortal represents the future of Web3 gaming accessibility, merging the worlds of high-speed internet access and blockchain gaming into a seamless, engaging, and rewarding experience for users worldwide.
